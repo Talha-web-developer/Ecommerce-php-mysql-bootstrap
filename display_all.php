@@ -29,7 +29,7 @@ include('includes/header.php');
         </div>
         <div class="col-lg-9">
             <div class="row g-4">
-                <?php get_products(); ?>
+                <?php get_all_products(); ?>
                 <?php get_unique_gift_categories(); ?>
                 <?php get_unique_occasions(); ?>
             </div>

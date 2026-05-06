@@ -1,6 +1,6 @@
 <?php
 if (!isset(($page_title))) {
-    $page_title = "Gleam Creates - Ecommerce";
+    $page_title = "Nexus Cart - Ecommerce";
 }
 ?>
 
@@ -19,7 +19,7 @@ if (!isset(($page_title))) {
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" />
 
     <!-- Main stylesheet -->
-     <link rel="stylesheet" href="/gleam-creates/style.css">
+     <link rel="stylesheet" href="/nexus-cart/style.css">
 </head>
 
 <body>

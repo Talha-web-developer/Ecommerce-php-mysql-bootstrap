@@ -16,7 +16,7 @@
                     <a class="nav-link" href="index.php">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Products</a>
+                    <a class="nav-link" href="display_all.php">Products</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">My Account</a>
@@ -37,7 +37,7 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Total: $0/-</a>
+                    <a class="nav-link" href="#">Total: $0</a>
                 </li>
 
 
